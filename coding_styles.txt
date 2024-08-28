@@ -1,0 +1,5 @@
+stick to C89.
+Adopt GNU coding style: https://www.gnu.org/prep/standards/standards.html
+In addition:
+-Capitalize each word for types created using enum keyword or typedef without 
+separating the words with underscores. 

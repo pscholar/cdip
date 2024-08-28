@@ -1,0 +1,36 @@
+#Compiled Source#
+##################
+*.exe
+*.o
+*.dat
+
+#packages#
+#############
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+#folders#
+.*/
+ffmpeg/
+jpeg/
+png/
+zlib/
+
+#images#
+*.jpg
+*.jpeg
+*.png
+
+#videofiles and audio files#
+*.mp4
+*.mkv
+*.mp3
+
+
+
