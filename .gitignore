@@ -17,11 +17,12 @@
 
 #folders#
 .*/
-ffmpeg/
-jpeg/
-png/
-zlib/
-
+dependencies/jpeg/lib
+dependencies/jpeg/include
+dependencies/png/lib
+dependencies/png/include
+dependencies/zlib/lib
+dependencies/zlib/include
 #images#
 *.jpg
 *.jpeg
